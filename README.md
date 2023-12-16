@@ -1,2 +1,3 @@
-1. How to use Hammer [`Watch it`](http://www.youtube.com/watch?v=HVbRUhX2EPo) 
-2. Fork it...
+git clone https://github.com/tulinstyle/hammer-ddos.git
+cd hammer-ddos
+python3 hammer.py -h
